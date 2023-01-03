@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TransactionTest
+comment0.text=\r\n\ JUnit\ test\ for\ Transactions.\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ Oct24,\ 2020\r\n
+comment1.params=
+comment1.target=void\ testTransactions()
+numComments=2

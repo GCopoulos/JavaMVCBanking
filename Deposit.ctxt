@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Deposit
+comment0.text=\r\n\ Class\ Deposit\:\ add\ amount\ to\ an\ account\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ Oct23,2020\r\n
+comment1.params=req
+comment1.target=Deposit(Request)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deposit\r\n
+comment2.params=
+comment2.target=boolean\ isValidRequest()
+comment2.text=\r\n\ validateRequest\:\ check\ if\ a\ request\ is\ valid\r\n\r\n\ @param\ none\r\n\ @return\ a\ boolean\ confirming\ if\ the\ request\ is\ valid\r\n
+comment3.params=
+comment3.target=void\ performRequest()
+comment3.text=\r\n\ performRequest\:\ add\ amount\ to\ the\ account\r\n\r\n\ @param\ None\r\n\ @return\ None\r\n
+comment4.params=
+comment4.target=void\ printReceipt()
+comment4.text=\r\n\ printReceipt\:\ print\ the\ change\ made\ by\ this\ transaction\r\n\r\n\ @param\ None\r\n\ @return\ None\r\n
+numComments=5

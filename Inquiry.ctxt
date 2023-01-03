@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inquiry
+comment0.text=\r\n\ Class\ Inquiry\:\ inquire\ the\ type\ and\ balance\ of\ an\ account\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ Oct25,2020\r\n
+comment1.params=req
+comment1.target=Inquiry(Request)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Inquiry\r\n
+comment2.params=
+comment2.target=boolean\ isValidRequest()
+comment2.text=\r\n\ validateRequest\:\ check\ if\ a\ request\ is\ valid\r\n\r\n\ @param\ none\r\n\ @return\ a\ boolean\ confirming\ if\ the\ request\ is\ valid\r\n
+comment3.params=
+comment3.target=void\ printReceipt()
+comment3.text=\r\n\ printReceipt\:\ looks\ up\ the\ inquired\ balance\ and\ displays\ it\r\n\r\n\ @param\ \ none\r\n\ @return\ none\r\n
+numComments=4

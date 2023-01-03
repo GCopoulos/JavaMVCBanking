@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Request
+comment0.text=\r\n\ Class\ Request\:\ This\ class\ represents\ a\ transaction\ request\ made\ by\ the\ user\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ Oct25,2020\r\n
+comment1.params=fromAcct
+comment1.target=Request(Account)
+comment1.text=\r\n\ Constructors\ for\ objects\ of\ class\ Request\r\n
+comment2.params=fromAcct\ amount
+comment2.target=Request(Account,\ int)
+comment3.params=fromAcct\ toAcct\ amount
+comment3.target=Request(Account,\ Account,\ int)
+comment4.params=
+comment4.target=int\ getAmount()
+comment4.text=\r\n\ getAmount\r\n\r\n\ @param\ None\r\n\ @return\ the\ requested\ amount\ of\ transaction,\ if\ any\r\n
+comment5.params=
+comment5.target=Account\ getFromAccount()
+comment5.text=\r\n\ getFromAccount\r\n\r\n\ @param\ None\r\n\ @return\ the\ account\ that\ initiates\ the\ transaction\r\n
+comment6.params=
+comment6.target=Account\ getToAccount()
+comment6.text=\r\n\ getToAccount\r\n\r\n\ @param\ None\r\n\ @return\ the\ account\ that\ receives\ the\ transaction,\ if\ any\r\n
+numComments=7

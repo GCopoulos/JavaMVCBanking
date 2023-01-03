@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Transaction
+comment0.text=\r\n\ Abstract\ class\ Transaction\:\ This\ class\ provides\ basic\ functions\ a\ transaction\ has.\r\n\r\n\ @author\ Gerasimos\ Copoulos\r\n\ @version\ Oct25,2020\r\n
+comment1.params=
+comment1.target=boolean\ process()
+comment1.text=\r\n\ process\:\ a\ method\ for\ all\ subclasses,\ representing\ the\ steps\ to\ process\ a\ request\r\n\r\n\ @param\ None\r\n\ @return\ a\ boolean\ representing\ if\ the\ request\ is\ successfully\ processed\r\n\ @print\ a\ receipt\ if\ the\ request\ is\ successful,\ or\ an\ error\ message\ if\ not\r\n
+comment2.params=
+comment2.target=boolean\ isValidRequest()
+comment2.text=\r\n\ validateRequest\:\ check\ if\ a\ request\ is\ valid\r\n\r\n\ @param\ none\r\n\ @return\ a\ boolean\ confirming\ if\ the\ request\ is\ valid\r\n
+comment3.params=
+comment3.target=void\ performRequest()
+comment3.text=\r\n\ performRequest\:\ perform\ the\ request\r\n\r\n\ @param\ None\r\n\ @return\ None\r\n
+comment4.params=
+comment4.target=void\ printReceipt()
+comment4.text=\r\n\ printReceipt\:\ print\ the\ change\ made\ by\ this\ transaction\r\n\r\n\ @param\ None\r\n\ @return\ None\r\n
+comment5.params=
+comment5.target=void\ printErrorMsg()
+comment5.text=\r\n\ printErrorMsg\:\ inform\ the\ error\ occured\ while\ processing\ the\ transaction\ request\r\n\r\n\ @param\ None\r\n\ @return\ None\r\n
+numComments=6

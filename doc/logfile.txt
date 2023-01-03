@@ -1,0 +1,274 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2
+-d
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+cs203-f20-team2
+-windowtitle
+cs203-f20-team2
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/CheckingsAccount.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Account.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Deposit.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Receipt.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Withdrawal.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Request.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/TransactionTest.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Inquiry.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/ATMSystem.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/SavingsAccount.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Transaction.java
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2/Transfer.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Receipt.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Request.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\TransactionTest.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Inquiry.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java...
+Loading source file C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 17.0.4+8
+Building tree for all the packages and classes...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Account.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:33: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:43: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:51: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:59: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:67: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:80: warning: @return tag cannot be used in method with void return type.
+    public void deduct(int amount){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Account.java:88: warning: @return tag cannot be used in method with void return type.
+    public void add(int amount){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\ATMSystem.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:78: warning: Tag @return cannot be used in constructor documentation.  It can only be used in the following types of documentation: method, inline text.
+     * @return No return, just constructs an ATMSystem object using the input parameters.
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:114: warning: @return tag cannot be used in method with void return type.
+    public void showMenu(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:158: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedExit(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:168: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedChange(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:186: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedW(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:238: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedD(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:290: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedT(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:348: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformedI(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:362: warning: @return tag cannot be used in method with void return type.
+    public void InfoPrompt(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:440: warning: @return tag cannot be used in method with void return type.
+    public void DisplayInfo(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:457: warning: @return tag cannot be used in method with void return type.
+    public void actionPerformed(ActionEvent e) {
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\ATMSystem.java:617: warning: @return tag cannot be used in method with void return type.
+    public static void main(String[] args){
+                       ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\CheckingsAccount.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:30: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:39: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:47: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:55: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:66: warning: @return tag cannot be used in method with void return type.
+    public void deduct(int amount){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\CheckingsAccount.java:74: warning: @return tag cannot be used in method with void return type.
+    public void add(int amount){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Deposit.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java:22: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java:32: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java:35: warning: @return tag cannot be used in method with void return type.
+    public void performRequest(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java:45: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Deposit.java:48: warning: @return tag cannot be used in method with void return type.
+    public void printReceipt(){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Inquiry.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Inquiry.java:22: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Inquiry.java:32: warning: @param argument "none" is not a parameter name.
+     * @param  none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Inquiry.java:35: warning: @return tag cannot be used in method with void return type.
+    public void printReceipt() {
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Receipt.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Request.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Request.java:34: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Request.java:45: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Request.java:56: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\SavingsAccount.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:31: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:42: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:51: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:60: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:68: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:79: warning: @return tag cannot be used in method with void return type.
+    public void deduct(int amount){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\SavingsAccount.java:95: warning: @return tag cannot be used in method with void return type.
+    public void add(int amount){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Transaction.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:19: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:37: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:47: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:50: warning: @return tag cannot be used in method with void return type.
+    public void performRequest(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:57: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:60: warning: @return tag cannot be used in method with void return type.
+    public void printReceipt(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:66: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transaction.java:69: warning: @return tag cannot be used in method with void return type.
+    public void printErrorMsg(){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\TransactionTest.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Transfer.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:25: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:45: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:48: warning: @return tag cannot be used in method with void return type.
+    public void performRequest(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:59: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:62: warning: @return tag cannot be used in method with void return type.
+    public void printReceipt(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:70: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Transfer.java:73: warning: @return tag cannot be used in method with void return type.
+    public void printErrorMsg(){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\Withdrawal.html...
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:24: warning: @param argument "none" is not a parameter name.
+     * @param none
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:46: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:49: warning: @return tag cannot be used in method with void return type.
+    public void performRequest(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:58: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:61: warning: @return tag cannot be used in method with void return type.
+    public void printReceipt(){
+                ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:69: warning: @param argument "None" is not a parameter name.
+     * @param None
+       ^
+C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\Withdrawal.java:72: warning: @return tag cannot be used in method with void return type.
+    public void printErrorMsg(){
+                ^
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\package-summary.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\package-tree.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\constant-values.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\serialized-form.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\overview-tree.html...
+Building index for all classes...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\allclasses-index.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\allpackages-index.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\index-all.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\index.html...
+Generating C:\Users\Drago\Documents\2023 Programming\cs203-f20-team2\doc\help-doc.html...
+65 warnings
